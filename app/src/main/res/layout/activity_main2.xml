@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context="mx.com.example.fingerprint.Main2Activity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="P2"
+        android:gravity="center"
+        android:textSize="80dp"/>
+
 </android.support.constraint.ConstraintLayout>
